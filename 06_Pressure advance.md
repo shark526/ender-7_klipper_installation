@@ -2,6 +2,15 @@
   - Requires e-steps/flow-rate calibration first
   - Specific to each filament
   
+try following method:
+    https://seahorse.littlefish.love/calibration/06-pressure-advance
+
+流行的测试方法
+图案法（推荐），后面会细说。
+塔法（对于新手来说更容易设置，但可能更难阅读结果和不太精确）
+已弃用的“线法”。
+
+
   - Download Klipper pressure advance square tower
     - https://www.klipper3d.org/prints/square_tower.stl
 
